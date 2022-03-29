@@ -3,7 +3,9 @@
 ## What idea(s) do you have for your final project?
 
 stroop test
+
 advoid falling objects catch others
+
 typing test 
 
 
