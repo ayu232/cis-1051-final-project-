@@ -37,5 +37,5 @@ Make background to game
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 I will need to know how to make game track mouse or use keys to move the catcher.
 Some other things I might need is learn how to import images and make them fall.
-Make game end when undesired objct hits slider.
+Make game end when undesired objct hits slider. I need to know how to give palyer points as well.
 
