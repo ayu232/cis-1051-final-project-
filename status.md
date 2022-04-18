@@ -19,6 +19,7 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 #### What have you done for your project so far?
 
 I have made objects that fall and a screen for where ti should land 
+Made where player can move left and right
 
 #### What have you not done for your project yet?
 
