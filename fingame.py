@@ -103,9 +103,9 @@ def run_game():
             A_startposY = 0 - Fheight
             
 
-        if y < F_startposY+Fheight:
-            print('the ys')
-            if x > F_startposX and x < F_startposX + Fwidth or x+bunny_width > F_startposX:
+        if ((x < (F_startposX + bunny_width andx > F_startposX))
+          or ((x + bunny_width) > F_startposX
+           and (x + bunny_width) < (F_startposX + bunny_width))):
                 crash()
             
         pygame.display.update()
