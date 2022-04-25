@@ -103,7 +103,8 @@ def run_game():
             A_startposY = 0 - Fheight
             
 
-        if ((x < (F_startposX + bunny_width andx > F_startposX))
+        if y < (F_startposY + bunny_width):
+            if ((x < (F_startposX + bunny_width and x > F_startposX))
           or ((x + bunny_width) > F_startposX
            and (x + bunny_width) < (F_startposX + bunny_width))):
                 crash()
